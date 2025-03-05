@@ -36,7 +36,7 @@ This toolkit provides a collection of Python scripts for computational genomics 
 
 2. Install required Python packages:
    ```
-   pip install numpy matplotlib biopython pandas
+   conda create -f env/environment.yml
    ```
 
 3. Make the main script executable:
