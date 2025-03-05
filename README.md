@@ -170,7 +170,7 @@ This will:
 
 If you use this toolkit in your research, please cite:
 
-PanTE: A Comprehensive Framework for Transposable Element Discovery in Graph-based Pangenomes[(https://www.researchgate.net/profile/Cao-Shuo-7/publication/388740613_PanTE_A_Comprehensive_Framework_for_Transposable_Element_Discovery_in_Graph-based_Pangenomes/links/67aa0438207c0c20fa836d65/PanTE-A-Comprehensive-Framework-for-Transposable-Element-Discovery-in-Graph-based-Pangenomes.pdf)]
+PanTE: A Comprehensive Framework for Transposable Element Discovery in Graph-based Pangenomes
 
 ## License
 
